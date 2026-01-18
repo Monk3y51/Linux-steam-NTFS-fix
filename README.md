@@ -2,14 +2,14 @@
 How to fix proton not working with games stored on a NTFS drive
 
 ## why it doesnt work
-Proton/ Wone doesnt like ntfs drives, it is possible to store your games on a ntfs drive that windows also uses, this saves you from having to install games 2x on the same pc.
+Proton/ Wine doesnt like ntfs drives, it is possible to store your games on a ntfs drive that windows also uses, this saves you from having to install games 2x on the same pc.
 
 ## howto:
 ### Windows:
 go into Windows settings and turn off fast boot
 
 ### Linux
-go into your disk manager, I am using Fedora woth Gnome so I will refer to it at Disks moving forward.
+go into your disk manager, I am using Fedora with Gnome so I will refer to it at Disks moving forward.
 
 select the ntfs drive with your steam games are installed to
 
